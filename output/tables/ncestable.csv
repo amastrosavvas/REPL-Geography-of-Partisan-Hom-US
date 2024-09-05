@@ -1,0 +1,301 @@
+"","var","region","value","Low-High","High-High","High-Low","Low-Low","Not significant","ind"
+"1","Settlement type, 
+ without controls","All regions","City",0,0.78,0.06,0.01,0.15,"value"
+"2","Settlement type, 
+ without controls","All regions","City",0,0.01,0,0,0.01,"se"
+"3","Settlement type, 
+ without controls","All regions","Suburb",0,0.78,0.04,0.02,0.15,"value"
+"4","Settlement type, 
+ without controls","All regions","Suburb",0,0.01,0,0,0.01,"se"
+"5","Settlement type, 
+ without controls","All regions","Rural - fringe",0,0.33,0.07,0.22,0.38,"value"
+"6","Settlement type, 
+ without controls","All regions","Rural - fringe",0,0.01,0,0.01,0.01,"se"
+"7","Settlement type, 
+ without controls","All regions","Rural - distant",0,0.1,0.03,0.45,0.42,"value"
+"8","Settlement type, 
+ without controls","All regions","Rural - distant",0,0,0,0.01,0.01,"se"
+"9","Settlement type, 
+ without controls","All regions","Rural - remote",0,0.08,0.02,0.44,0.45,"value"
+"10","Settlement type, 
+ without controls","All regions","Rural - remote",0,0.01,0,0.01,0.01,"se"
+"11","Settlement type, 
+ without controls","Northeast","City",0.01,0.97,0,0,0.01,"value"
+"12","Settlement type, 
+ without controls","Northeast","City",0,0.01,0,0,0,"se"
+"13","Settlement type, 
+ without controls","Northeast","Suburb",0,0.91,0,0,0.08,"value"
+"14","Settlement type, 
+ without controls","Northeast","Suburb",0,0.01,0,0,0.01,"se"
+"15","Settlement type, 
+ without controls","Northeast","Rural - fringe",0,0.57,0.01,0.07,0.35,"value"
+"16","Settlement type, 
+ without controls","Northeast","Rural - fringe",0,0.01,0,0.01,0.01,"se"
+"17","Settlement type, 
+ without controls","Northeast","Rural - distant",0,0.35,0,0.2,0.44,"value"
+"18","Settlement type, 
+ without controls","Northeast","Rural - distant",0,0.01,0,0.01,0.01,"se"
+"19","Settlement type, 
+ without controls","Northeast","Rural - remote",0,0.44,0,0.09,0.46,"value"
+"20","Settlement type, 
+ without controls","Northeast","Rural - remote",0,0.04,0,0.02,0.04,"se"
+"21","Settlement type, 
+ without controls","South","City",0,0.6,0.13,0.02,0.25,"value"
+"22","Settlement type, 
+ without controls","South","City",0,0.02,0.01,0,0.01,"se"
+"23","Settlement type, 
+ without controls","South","Suburb",0.01,0.6,0.11,0.06,0.23,"value"
+"24","Settlement type, 
+ without controls","South","Suburb",0,0.02,0.01,0.01,0.01,"se"
+"25","Settlement type, 
+ without controls","South","Rural - fringe",0,0.17,0.13,0.36,0.33,"value"
+"26","Settlement type, 
+ without controls","South","Rural - fringe",0,0.01,0.01,0.01,0.01,"se"
+"27","Settlement type, 
+ without controls","South","Rural - distant",0,0.04,0.04,0.61,0.3,"value"
+"28","Settlement type, 
+ without controls","South","Rural - distant",0,0,0,0.01,0.01,"se"
+"29","Settlement type, 
+ without controls","South","Rural - remote",0,0.04,0.04,0.69,0.23,"value"
+"30","Settlement type, 
+ without controls","South","Rural - remote",0,0.01,0.01,0.02,0.02,"se"
+"31","Settlement type, 
+ without controls","Midwest","City",0,0.75,0.04,0,0.22,"value"
+"32","Settlement type, 
+ without controls","Midwest","City",0,0.02,0.01,0,0.02,"se"
+"33","Settlement type, 
+ without controls","Midwest","Suburb",0,0.72,0.04,0.01,0.22,"value"
+"34","Settlement type, 
+ without controls","Midwest","Suburb",0,0.02,0.01,0,0.01,"se"
+"35","Settlement type, 
+ without controls","Midwest","Rural - fringe",0,0.14,0.07,0.24,0.55,"value"
+"36","Settlement type, 
+ without controls","Midwest","Rural - fringe",0,0.01,0.01,0.01,0.01,"se"
+"37","Settlement type, 
+ without controls","Midwest","Rural - distant",0,0.02,0.02,0.44,0.53,"value"
+"38","Settlement type, 
+ without controls","Midwest","Rural - distant",0,0,0,0.01,0.01,"se"
+"39","Settlement type, 
+ without controls","Midwest","Rural - remote",0,0.01,0,0.32,0.67,"value"
+"40","Settlement type, 
+ without controls","Midwest","Rural - remote",0,0,0,0.02,0.02,"se"
+"41","Settlement type, 
+ without controls","West","City",0,0.94,0.01,0,0.05,"value"
+"42","Settlement type, 
+ without controls","West","City",0,0.01,0,0,0.01,"se"
+"43","Settlement type, 
+ without controls","West","Suburb",0,0.89,0.04,0.01,0.05,"value"
+"44","Settlement type, 
+ without controls","West","Suburb",0,0.01,0.01,0,0.01,"se"
+"45","Settlement type, 
+ without controls","West","Rural - fringe",0.01,0.6,0.03,0.05,0.31,"value"
+"46","Settlement type, 
+ without controls","West","Rural - fringe",0,0.02,0,0.01,0.02,"se"
+"47","Settlement type, 
+ without controls","West","Rural - distant",0.01,0.27,0.02,0.14,0.57,"value"
+"48","Settlement type, 
+ without controls","West","Rural - distant",0,0.02,0,0.01,0.02,"se"
+"49","Settlement type, 
+ without controls","West","Rural - remote",0,0.13,0.03,0.32,0.52,"value"
+"50","Settlement type, 
+ without controls","West","Rural - remote",0,0.01,0.01,0.02,0.02,"se"
+"51","Settlement type, 
+ demographic controls","All regions","City",0.01,0.55,0.06,0.02,0.37,"value"
+"52","Settlement type, 
+ demographic controls","All regions","City",0,0,0,0,0,"se"
+"53","Settlement type, 
+ demographic controls","All regions","Suburb",0,0.62,0.06,0.03,0.28,"value"
+"54","Settlement type, 
+ demographic controls","All regions","Suburb",0,0,0,0,0,"se"
+"55","Settlement type, 
+ demographic controls","All regions","Rural - fringe",0,0.32,0.08,0.12,0.47,"value"
+"56","Settlement type, 
+ demographic controls","All regions","Rural - fringe",0,0,0,0,0,"se"
+"57","Settlement type, 
+ demographic controls","All regions","Rural - distant",0,0.19,0.04,0.19,0.58,"value"
+"58","Settlement type, 
+ demographic controls","All regions","Rural - distant",0,0,0,0,0,"se"
+"59","Settlement type, 
+ demographic controls","All regions","Rural - remote",0,0.15,0.04,0.18,0.63,"value"
+"60","Settlement type, 
+ demographic controls","All regions","Rural - remote",0,0,0,0,0,"se"
+"61","Settlement type, 
+ demographic controls","Northeast","City",0.08,0.88,0,0,0.05,"value"
+"62","Settlement type, 
+ demographic controls","Northeast","City",0,0.01,0,0,0,"se"
+"63","Settlement type, 
+ demographic controls","Northeast","Suburb",0,0.82,0,0,0.18,"value"
+"64","Settlement type, 
+ demographic controls","Northeast","Suburb",0,0,0,0,0,"se"
+"65","Settlement type, 
+ demographic controls","Northeast","Rural - fringe",0,0.6,0.01,0.02,0.36,"value"
+"66","Settlement type, 
+ demographic controls","Northeast","Rural - fringe",0,0,0,0,0,"se"
+"67","Settlement type, 
+ demographic controls","Northeast","Rural - distant",0,0.63,0,0.03,0.33,"value"
+"68","Settlement type, 
+ demographic controls","Northeast","Rural - distant",0,0,0,0,0,"se"
+"69","Settlement type, 
+ demographic controls","Northeast","Rural - remote",0,0.73,0,0.01,0.26,"value"
+"70","Settlement type, 
+ demographic controls","Northeast","Rural - remote",0,0,0,0,0,"se"
+"71","Settlement type, 
+ demographic controls","South","City",0,0.36,0.11,0.04,0.49,"value"
+"72","Settlement type, 
+ demographic controls","South","City",0,0,0,0,0,"se"
+"73","Settlement type, 
+ demographic controls","South","Suburb",0.01,0.38,0.13,0.1,0.38,"value"
+"74","Settlement type, 
+ demographic controls","South","Suburb",0,0,0,0,0,"se"
+"75","Settlement type, 
+ demographic controls","South","Rural - fringe",0,0.13,0.15,0.28,0.43,"value"
+"76","Settlement type, 
+ demographic controls","South","Rural - fringe",0,0,0,0,0,"se"
+"77","Settlement type, 
+ demographic controls","South","Rural - distant",0,0.04,0.08,0.44,0.44,"value"
+"78","Settlement type, 
+ demographic controls","South","Rural - distant",0,0,0,0,0,"se"
+"79","Settlement type, 
+ demographic controls","South","Rural - remote",0,0.06,0.08,0.51,0.35,"value"
+"80","Settlement type, 
+ demographic controls","South","Rural - remote",0,0,0,0,0,"se"
+"81","Settlement type, 
+ demographic controls","Midwest","City",0,0.57,0.03,0,0.4,"value"
+"82","Settlement type, 
+ demographic controls","Midwest","City",0,0,0,0,0,"se"
+"83","Settlement type, 
+ demographic controls","Midwest","Suburb",0,0.64,0.04,0.01,0.31,"value"
+"84","Settlement type, 
+ demographic controls","Midwest","Suburb",0,0,0,0,0,"se"
+"85","Settlement type, 
+ demographic controls","Midwest","Rural - fringe",0,0.2,0.07,0.1,0.63,"value"
+"86","Settlement type, 
+ demographic controls","Midwest","Rural - fringe",0,0,0,0,0,"se"
+"87","Settlement type, 
+ demographic controls","Midwest","Rural - distant",0,0.06,0.03,0.14,0.77,"value"
+"88","Settlement type, 
+ demographic controls","Midwest","Rural - distant",0,0,0,0,0,"se"
+"89","Settlement type, 
+ demographic controls","Midwest","Rural - remote",0,0.02,0.01,0.09,0.88,"value"
+"90","Settlement type, 
+ demographic controls","Midwest","Rural - remote",0,0,0,0,0,"se"
+"91","Settlement type, 
+ demographic controls","West","City",0,0.82,0.01,0,0.16,"value"
+"92","Settlement type, 
+ demographic controls","West","City",0,0,0,0,0,"se"
+"93","Settlement type, 
+ demographic controls","West","Suburb",0.01,0.77,0.05,0.03,0.14,"value"
+"94","Settlement type, 
+ demographic controls","West","Suburb",0,0,0,0,0,"se"
+"95","Settlement type, 
+ demographic controls","West","Rural - fringe",0.01,0.5,0.02,0.04,0.44,"value"
+"96","Settlement type, 
+ demographic controls","West","Rural - fringe",0,0,0,0,0,"se"
+"97","Settlement type, 
+ demographic controls","West","Rural - distant",0.01,0.3,0.02,0.06,0.61,"value"
+"98","Settlement type, 
+ demographic controls","West","Rural - distant",0,0,0,0,0,"se"
+"99","Settlement type, 
+ demographic controls","West","Rural - remote",0,0.15,0.04,0.15,0.66,"value"
+"100","Settlement type, 
+ demographic controls","West","Rural - remote",0,0,0,0,0,"se"
+"101","Settlement type, 
+ + Internet controls","All regions","City",0.01,0.55,0.05,0.02,0.38,"value"
+"102","Settlement type, 
+ + Internet controls","All regions","City",0,0,0,0,0,"se"
+"103","Settlement type, 
+ + Internet controls","All regions","Suburb",0,0.62,0.06,0.03,0.29,"value"
+"104","Settlement type, 
+ + Internet controls","All regions","Suburb",0,0,0,0,0,"se"
+"105","Settlement type, 
+ + Internet controls","All regions","Rural - fringe",0,0.32,0.08,0.12,0.48,"value"
+"106","Settlement type, 
+ + Internet controls","All regions","Rural - fringe",0,0,0,0,0,"se"
+"107","Settlement type, 
+ + Internet controls","All regions","Rural - distant",0,0.19,0.05,0.17,0.59,"value"
+"108","Settlement type, 
+ + Internet controls","All regions","Rural - distant",0,0,0,0,0,"se"
+"109","Settlement type, 
+ + Internet controls","All regions","Rural - remote",0,0.16,0.05,0.16,0.63,"value"
+"110","Settlement type, 
+ + Internet controls","All regions","Rural - remote",0,0,0,0,0,"se"
+"111","Settlement type, 
+ + Internet controls","Northeast","City",0.07,0.88,0,0,0.05,"value"
+"112","Settlement type, 
+ + Internet controls","Northeast","City",0,0.01,0,0,0,"se"
+"113","Settlement type, 
+ + Internet controls","Northeast","Suburb",0,0.82,0,0,0.17,"value"
+"114","Settlement type, 
+ + Internet controls","Northeast","Suburb",0,0,0,0,0,"se"
+"115","Settlement type, 
+ + Internet controls","Northeast","Rural - fringe",0,0.61,0.01,0.03,0.35,"value"
+"116","Settlement type, 
+ + Internet controls","Northeast","Rural - fringe",0,0,0,0,0,"se"
+"117","Settlement type, 
+ + Internet controls","Northeast","Rural - distant",0,0.64,0,0.03,0.32,"value"
+"118","Settlement type, 
+ + Internet controls","Northeast","Rural - distant",0,0,0,0,0,"se"
+"119","Settlement type, 
+ + Internet controls","Northeast","Rural - remote",0,0.75,0,0.01,0.24,"value"
+"120","Settlement type, 
+ + Internet controls","Northeast","Rural - remote",0,0,0,0,0,"se"
+"121","Settlement type, 
+ + Internet controls","South","City",0,0.35,0.09,0.04,0.51,"value"
+"122","Settlement type, 
+ + Internet controls","South","City",0,0,0,0,0,"se"
+"123","Settlement type, 
+ + Internet controls","South","Suburb",0.01,0.37,0.11,0.1,0.4,"value"
+"124","Settlement type, 
+ + Internet controls","South","Suburb",0,0,0,0,0,"se"
+"125","Settlement type, 
+ + Internet controls","South","Rural - fringe",0,0.13,0.13,0.28,0.45,"value"
+"126","Settlement type, 
+ + Internet controls","South","Rural - fringe",0,0,0,0,0,"se"
+"127","Settlement type, 
+ + Internet controls","South","Rural - distant",0,0.05,0.08,0.42,0.45,"value"
+"128","Settlement type, 
+ + Internet controls","South","Rural - distant",0,0,0,0,0,"se"
+"129","Settlement type, 
+ + Internet controls","South","Rural - remote",0,0.06,0.09,0.48,0.37,"value"
+"130","Settlement type, 
+ + Internet controls","South","Rural - remote",0,0,0,0,0,"se"
+"131","Settlement type, 
+ + Internet controls","Midwest","City",0,0.56,0.02,0,0.41,"value"
+"132","Settlement type, 
+ + Internet controls","Midwest","City",0,0,0,0,0,"se"
+"133","Settlement type, 
+ + Internet controls","Midwest","Suburb",0,0.63,0.04,0.01,0.32,"value"
+"134","Settlement type, 
+ + Internet controls","Midwest","Suburb",0,0,0,0,0,"se"
+"135","Settlement type, 
+ + Internet controls","Midwest","Rural - fringe",0,0.2,0.07,0.1,0.64,"value"
+"136","Settlement type, 
+ + Internet controls","Midwest","Rural - fringe",0,0,0,0,0,"se"
+"137","Settlement type, 
+ + Internet controls","Midwest","Rural - distant",0,0.06,0.03,0.13,0.78,"value"
+"138","Settlement type, 
+ + Internet controls","Midwest","Rural - distant",0,0,0,0,0,"se"
+"139","Settlement type, 
+ + Internet controls","Midwest","Rural - remote",0,0.03,0.01,0.08,0.88,"value"
+"140","Settlement type, 
+ + Internet controls","Midwest","Rural - remote",0,0,0,0,0,"se"
+"141","Settlement type, 
+ + Internet controls","West","City",0,0.82,0.01,0.01,0.17,"value"
+"142","Settlement type, 
+ + Internet controls","West","City",0,0,0,0,0,"se"
+"143","Settlement type, 
+ + Internet controls","West","Suburb",0.01,0.77,0.04,0.03,0.14,"value"
+"144","Settlement type, 
+ + Internet controls","West","Suburb",0,0,0,0,0,"se"
+"145","Settlement type, 
+ + Internet controls","West","Rural - fringe",0.01,0.49,0.02,0.03,0.45,"value"
+"146","Settlement type, 
+ + Internet controls","West","Rural - fringe",0,0,0,0,0,"se"
+"147","Settlement type, 
+ + Internet controls","West","Rural - distant",0.01,0.3,0.02,0.05,0.62,"value"
+"148","Settlement type, 
+ + Internet controls","West","Rural - distant",0,0,0,0,0,"se"
+"149","Settlement type, 
+ + Internet controls","West","Rural - remote",0,0.15,0.05,0.13,0.67,"value"
+"150","Settlement type, 
+ + Internet controls","West","Rural - remote",0,0,0,0,0,"se"

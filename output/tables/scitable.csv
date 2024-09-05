@@ -1,0 +1,201 @@
+"","var","region","value","Low-High","High-High","High-Low","Low-Low","Not significant","ind"
+"1","Relative connectedness to 
+ social neighbours","All regions","1",0,0.08,0.02,0.45,0.45,"value"
+"2","Relative connectedness to 
+ social neighbours","All regions","1",0,0,0,0.01,0.01,"se"
+"3","Relative connectedness to 
+ social neighbours","All regions","2",0,0.14,0.02,0.41,0.42,"value"
+"4","Relative connectedness to 
+ social neighbours","All regions","2",0,0.01,0,0.01,0.01,"se"
+"5","Relative connectedness to 
+ social neighbours","All regions","3",0,0.3,0.04,0.29,0.37,"value"
+"6","Relative connectedness to 
+ social neighbours","All regions","3",0,0.01,0,0.01,0.01,"se"
+"7","Relative connectedness to 
+ social neighbours","All regions","4",0,0.54,0.07,0.13,0.26,"value"
+"8","Relative connectedness to 
+ social neighbours","All regions","4",0,0.01,0,0,0.01,"se"
+"9","Relative connectedness to 
+ social neighbours","All regions","5",0,0.74,0.08,0.02,0.16,"value"
+"10","Relative connectedness to 
+ social neighbours","All regions","5",0,0.01,0,0,0.01,"se"
+"11","Relative connectedness to 
+ social neighbours","Northeast","1",0,0.32,0,0.21,0.47,"value"
+"12","Relative connectedness to 
+ social neighbours","Northeast","1",0,0.02,0,0.02,0.02,"se"
+"13","Relative connectedness to 
+ social neighbours","Northeast","2",0.01,0.43,0,0.15,0.4,"value"
+"14","Relative connectedness to 
+ social neighbours","Northeast","2",0,0.02,0,0.01,0.02,"se"
+"15","Relative connectedness to 
+ social neighbours","Northeast","3",0.01,0.64,0,0.07,0.28,"value"
+"16","Relative connectedness to 
+ social neighbours","Northeast","3",0,0.01,0,0.01,0.01,"se"
+"17","Relative connectedness to 
+ social neighbours","Northeast","4",0.01,0.8,0.01,0.02,0.17,"value"
+"18","Relative connectedness to 
+ social neighbours","Northeast","4",0,0.01,0,0,0.01,"se"
+"19","Relative connectedness to 
+ social neighbours","Northeast","5",0,0.93,0,0,0.06,"value"
+"20","Relative connectedness to 
+ social neighbours","Northeast","5",0,0.01,0,0,0.01,"se"
+"21","Relative connectedness to 
+ social neighbours","South","1",0,0.03,0.04,0.64,0.28,"value"
+"22","Relative connectedness to 
+ social neighbours","South","1",0,0,0,0.01,0.01,"se"
+"23","Relative connectedness to 
+ social neighbours","South","2",0,0.05,0.04,0.61,0.3,"value"
+"24","Relative connectedness to 
+ social neighbours","South","2",0,0,0,0.01,0.01,"se"
+"25","Relative connectedness to 
+ social neighbours","South","3",0,0.08,0.07,0.51,0.34,"value"
+"26","Relative connectedness to 
+ social neighbours","South","3",0,0.01,0.01,0.01,0.01,"se"
+"27","Relative connectedness to 
+ social neighbours","South","4",0,0.29,0.12,0.27,0.32,"value"
+"28","Relative connectedness to 
+ social neighbours","South","4",0,0.01,0.01,0.01,0.01,"se"
+"29","Relative connectedness to 
+ social neighbours","South","5",0,0.6,0.15,0.04,0.2,"value"
+"30","Relative connectedness to 
+ social neighbours","South","5",0,0.01,0.01,0,0.01,"se"
+"31","Relative connectedness to 
+ social neighbours","Midwest","1",0,0.02,0.01,0.41,0.56,"value"
+"32","Relative connectedness to 
+ social neighbours","Midwest","1",0,0,0,0.01,0.01,"se"
+"33","Relative connectedness to 
+ social neighbours","Midwest","2",0,0.03,0.01,0.41,0.55,"value"
+"34","Relative connectedness to 
+ social neighbours","Midwest","2",0,0,0,0.01,0.01,"se"
+"35","Relative connectedness to 
+ social neighbours","Midwest","3",0,0.13,0.04,0.32,0.51,"value"
+"36","Relative connectedness to 
+ social neighbours","Midwest","3",0,0.01,0.01,0.01,0.02,"se"
+"37","Relative connectedness to 
+ social neighbours","Midwest","4",0,0.44,0.08,0.1,0.37,"value"
+"38","Relative connectedness to 
+ social neighbours","Midwest","4",0,0.02,0.01,0.01,0.02,"se"
+"39","Relative connectedness to 
+ social neighbours","Midwest","5",0,0.68,0.05,0.01,0.27,"value"
+"40","Relative connectedness to 
+ social neighbours","Midwest","5",0,0.02,0.01,0,0.01,"se"
+"41","Relative connectedness to 
+ social neighbours","West","1",0,0.2,0.02,0.23,0.54,"value"
+"42","Relative connectedness to 
+ social neighbours","West","1",0,0.01,0,0.01,0.02,"se"
+"43","Relative connectedness to 
+ social neighbours","West","2",0.01,0.31,0.02,0.12,0.54,"value"
+"44","Relative connectedness to 
+ social neighbours","West","2",0,0.02,0.01,0.01,0.02,"se"
+"45","Relative connectedness to 
+ social neighbours","West","3",0.01,0.47,0.03,0.08,0.4,"value"
+"46","Relative connectedness to 
+ social neighbours","West","3",0,0.02,0.01,0.01,0.02,"se"
+"47","Relative connectedness to 
+ social neighbours","West","4",0,0.76,0.04,0.04,0.16,"value"
+"48","Relative connectedness to 
+ social neighbours","West","4",0,0.02,0.01,0.01,0.01,"se"
+"49","Relative connectedness to 
+ social neighbours","West","5",0,0.91,0.02,0,0.06,"value"
+"50","Relative connectedness to 
+ social neighbours","West","5",0,0.01,0,0,0.01,"se"
+"51","Relative distance to 
+ social neighbours","All regions","1",0,0.15,0.08,0.38,0.38,"value"
+"52","Relative distance to 
+ social neighbours","All regions","1",0,0.01,0,0.01,0.01,"se"
+"53","Relative distance to 
+ social neighbours","All regions","2",0,0.23,0.05,0.32,0.4,"value"
+"54","Relative distance to 
+ social neighbours","All regions","2",0,0.01,0,0.01,0.01,"se"
+"55","Relative distance to 
+ social neighbours","All regions","3",0,0.33,0.05,0.27,0.36,"value"
+"56","Relative distance to 
+ social neighbours","All regions","3",0,0.01,0,0.01,0.01,"se"
+"57","Relative distance to 
+ social neighbours","All regions","4",0,0.46,0.03,0.22,0.29,"value"
+"58","Relative distance to 
+ social neighbours","All regions","4",0,0.01,0,0.01,0.01,"se"
+"59","Relative distance to 
+ social neighbours","All regions","5",0.01,0.64,0.02,0.1,0.24,"value"
+"60","Relative distance to 
+ social neighbours","All regions","5",0,0.01,0,0,0.01,"se"
+"61","Relative distance to 
+ social neighbours","Northeast","1",0,0.34,0.02,0.2,0.44,"value"
+"62","Relative distance to 
+ social neighbours","Northeast","1",0,0.02,0,0.02,0.02,"se"
+"63","Relative distance to 
+ social neighbours","Northeast","2",0,0.41,0.01,0.13,0.45,"value"
+"64","Relative distance to 
+ social neighbours","Northeast","2",0,0.02,0,0.01,0.02,"se"
+"65","Relative distance to 
+ social neighbours","Northeast","3",0,0.56,0,0.08,0.35,"value"
+"66","Relative distance to 
+ social neighbours","Northeast","3",0,0.02,0,0.01,0.02,"se"
+"67","Relative distance to 
+ social neighbours","Northeast","4",0,0.76,0,0.04,0.2,"value"
+"68","Relative distance to 
+ social neighbours","Northeast","4",0,0.01,0,0.01,0.01,"se"
+"69","Relative distance to 
+ social neighbours","Northeast","5",0.01,0.9,0,0.01,0.07,"value"
+"70","Relative distance to 
+ social neighbours","Northeast","5",0,0.01,0,0,0.01,"se"
+"71","Relative distance to 
+ social neighbours","South","1",0,0.08,0.11,0.5,0.3,"value"
+"72","Relative distance to 
+ social neighbours","South","1",0,0.01,0.01,0.01,0.01,"se"
+"73","Relative distance to 
+ social neighbours","South","2",0,0.15,0.08,0.47,0.3,"value"
+"74","Relative distance to 
+ social neighbours","South","2",0,0.01,0.01,0.01,0.01,"se"
+"75","Relative distance to 
+ social neighbours","South","3",0,0.21,0.1,0.41,0.27,"value"
+"76","Relative distance to 
+ social neighbours","South","3",0,0.01,0.01,0.01,0.01,"se"
+"77","Relative distance to 
+ social neighbours","South","4",0,0.33,0.06,0.37,0.24,"value"
+"78","Relative distance to 
+ social neighbours","South","4",0,0.01,0.01,0.01,0.01,"se"
+"79","Relative distance to 
+ social neighbours","South","5",0,0.43,0.04,0.2,0.33,"value"
+"80","Relative distance to 
+ social neighbours","South","5",0,0.01,0.01,0.01,0.01,"se"
+"81","Relative distance to 
+ social neighbours","Midwest","1",0,0.14,0.05,0.29,0.51,"value"
+"82","Relative distance to 
+ social neighbours","Midwest","1",0,0.01,0.01,0.01,0.01,"se"
+"83","Relative distance to 
+ social neighbours","Midwest","2",0,0.16,0.04,0.29,0.51,"value"
+"84","Relative distance to 
+ social neighbours","Midwest","2",0,0.01,0,0.01,0.01,"se"
+"85","Relative distance to 
+ social neighbours","Midwest","3",0,0.22,0.02,0.28,0.48,"value"
+"86","Relative distance to 
+ social neighbours","Midwest","3",0,0.01,0,0.01,0.01,"se"
+"87","Relative distance to 
+ social neighbours","Midwest","4",0,0.29,0.02,0.28,0.41,"value"
+"88","Relative distance to 
+ social neighbours","Midwest","4",0,0.01,0,0.01,0.01,"se"
+"89","Relative distance to 
+ social neighbours","Midwest","5",0,0.46,0.04,0.21,0.29,"value"
+"90","Relative distance to 
+ social neighbours","Midwest","5",0,0.03,0.01,0.02,0.02,"se"
+"91","Relative distance to 
+ social neighbours","West","1",0,0.51,0.07,0.13,0.29,"value"
+"92","Relative distance to 
+ social neighbours","West","1",0,0.03,0.01,0.02,0.03,"se"
+"93","Relative distance to 
+ social neighbours","West","2",0,0.56,0.05,0.11,0.29,"value"
+"94","Relative distance to 
+ social neighbours","West","2",0,0.03,0.01,0.01,0.02,"se"
+"95","Relative distance to 
+ social neighbours","West","3",0,0.6,0.02,0.11,0.26,"value"
+"96","Relative distance to 
+ social neighbours","West","3",0,0.02,0,0.01,0.02,"se"
+"97","Relative distance to 
+ social neighbours","West","4",0,0.6,0.01,0.09,0.29,"value"
+"98","Relative distance to 
+ social neighbours","West","4",0,0.02,0,0.01,0.02,"se"
+"99","Relative distance to 
+ social neighbours","West","5",0.01,0.59,0.02,0.07,0.31,"value"
+"100","Relative distance to 
+ social neighbours","West","5",0,0.01,0,0.01,0.01,"se"
